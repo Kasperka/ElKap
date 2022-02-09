@@ -1,0 +1,17 @@
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Data.deps.json
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Data.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/ref/Data.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Data.pdb
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Aids.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Core.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Core.pdb
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/bin/Debug/net5.0/Aids.pdb
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.csproj.AssemblyReference.cache
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.AssemblyInfoInputs.cache
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.AssemblyInfo.cs
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.csproj.CoreCompileInputs.cache
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.csproj.CopyComplete
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/ref/Data.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/Debug/net5.0/Data.pdb

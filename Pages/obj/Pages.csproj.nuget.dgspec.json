@@ -1,0 +1,399 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Pages/Pages.csproj": {}
+  },
+  "projects": {
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/Aids.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/Aids.csproj",
+        "projectName": "Aids",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/Aids.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Core/Core.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/Aids.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/Aids.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/Data.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Core/Core.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/Data.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Data/Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Facade/Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Facade/Facade.csproj",
+        "projectName": "Facade",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Facade/Facade.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Facade/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Infra/Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Infra/Infra.csproj",
+        "projectName": "Infra",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Infra/Infra.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Pages/Pages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Pages/Pages.csproj",
+        "projectName": "Pages",
+        "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Pages/Pages.csproj",
+        "packagesPath": "/Users/thepcmr/.nuget/packages/",
+        "outputPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Pages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thepcmr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Facade/Facade.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Facade/Facade.csproj"
+              },
+              "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Infra/Infra.csproj": {
+                "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Infra/Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
