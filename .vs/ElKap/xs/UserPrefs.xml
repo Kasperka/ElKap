@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{410CE273-4338-4F36-AB83-2A450238AAC4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Pages FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ElKap FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Infra FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Core FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Data FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElKap" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Facade FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Aids FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
