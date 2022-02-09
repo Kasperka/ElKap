@@ -1,0 +1,12 @@
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/bin/Debug/net5.0/Aids.deps.json
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/bin/Debug/net5.0/Aids.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/bin/Debug/net5.0/ref/Aids.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/bin/Debug/net5.0/Aids.pdb
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.csproj.AssemblyReference.cache
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.AssemblyInfoInputs.cache
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.AssemblyInfo.cs
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.csproj.CoreCompileInputs.cache
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/ref/Aids.dll
+/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/Aids/obj/Debug/net5.0/Aids.pdb
