@@ -1660,111 +1660,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "Aids/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Aids.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Aids.dll": {}
-        }
-      },
-      "Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Aids": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Core.dll": {}
-        }
-      },
-      "Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Data.dll": {}
-        }
-      },
-      "Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Data": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Domain.dll": {}
-        }
-      },
-      "ElKap/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Pages": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ElKap.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ElKap.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "Facade/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Facade.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facade.dll": {}
-        }
-      },
-      "Infra/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Infra.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Infra.dll": {}
-        }
-      },
-      "Pages/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Facade": "1.0.0",
-          "Infra": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Pages.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Pages.dll": {}
-        }
       }
     }
   },
@@ -6208,51 +6103,10 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Aids/1.0.0": {
-      "type": "project",
-      "path": "../Aids/Aids.csproj",
-      "msbuildProject": "../Aids/Aids.csproj"
-    },
-    "Core/1.0.0": {
-      "type": "project",
-      "path": "../Core/Core.csproj",
-      "msbuildProject": "../Core/Core.csproj"
-    },
-    "Data/1.0.0": {
-      "type": "project",
-      "path": "../Data/Data.csproj",
-      "msbuildProject": "../Data/Data.csproj"
-    },
-    "Domain/1.0.0": {
-      "type": "project",
-      "path": "../Domain/Domain.csproj",
-      "msbuildProject": "../Domain/Domain.csproj"
-    },
-    "ElKap/1.0.0": {
-      "type": "project",
-      "path": "../ElKap/ElKap.csproj",
-      "msbuildProject": "../ElKap/ElKap.csproj"
-    },
-    "Facade/1.0.0": {
-      "type": "project",
-      "path": "../Facade/Facade.csproj",
-      "msbuildProject": "../Facade/Facade.csproj"
-    },
-    "Infra/1.0.0": {
-      "type": "project",
-      "path": "../Infra/Infra.csproj",
-      "msbuildProject": "../Infra/Infra.csproj"
-    },
-    "Pages/1.0.0": {
-      "type": "project",
-      "path": "../Pages/Pages.csproj",
-      "msbuildProject": "../Pages/Pages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ElKap >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
@@ -6283,11 +6137,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/ElKap/ElKap.csproj": {
-              "projectPath": "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/ElKap/ElKap.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

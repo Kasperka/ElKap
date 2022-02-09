@@ -14,13 +14,27 @@ namespace ElKap.Pages
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/ElKap/Pages/_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/ElKap/Pages/_ViewImports.cshtml"
 using ElKap;
 
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "/Users/thepcmr/Desktop/projects/Infosüsteemide_arendus_II/ElKap/ElKap/Pages/_ViewImports.cshtml"
+using ElKap.Data;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cc695e7b6fc60e9a6fcc9e9cd75eefa24d7b3f98", @"/Pages/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d1b21c3120b24333f93f7df2f1c7b15cee8a49c2", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0cc74743cc1036d461b3c64430dbd8ccb39b738b", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Error : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #pragma warning disable 1998

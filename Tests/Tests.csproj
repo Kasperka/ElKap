@@ -13,7 +13,4 @@
     <PackageReference Include="coverlet.collector" Version="3.0.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ElKap\ElKap.csproj" />
-  </ItemGroup>
 </Project>
