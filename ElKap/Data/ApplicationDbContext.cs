@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using ElKap.Data;
+using Data.Party;
 
 namespace ElKap.Data;
 
@@ -10,6 +11,6 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
-    public DbSet<ElKap.Data.Persons> Persons { get; set; }
+    public DbSet<PersonData> Persons { get; set; }
 }
 

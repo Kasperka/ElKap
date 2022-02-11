@@ -29,4 +29,9 @@
   <ItemGroup>
     <Folder Include="Pages\Person\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Pages\Pages.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

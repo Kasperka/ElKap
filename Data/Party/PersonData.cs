@@ -1,7 +1,7 @@
 ﻿using System;
-namespace ElKap.Data
+namespace Data.Party
 {
-	public class Persons
+	public class PersonData
 	{
 		public string Id { get; set; }
 		public string? FirstName { get; set; }
