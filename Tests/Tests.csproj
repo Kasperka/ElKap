@@ -5,16 +5,45 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>false</IsPackable>
+    <RootNamespace>ElKap.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
-    <PackageReference Include="MSTest.TestAdapter" Version="2.2.7" />
-    <PackageReference Include="MSTest.TestFramework" Version="2.2.7" />
-    <PackageReference Include="coverlet.collector" Version="3.1.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.8" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.8" />
+    <PackageReference Include="coverlet.collector" Version="3.1.2"><IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+<PrivateAssets>all</PrivateAssets>
+</PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ElKap\ElKap.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Data\" />
+    <None Remove="Data\Party\" />
+    <None Remove="Facade\" />
+    <None Remove="Facade\Party\" />
+    <None Remove="Microsoft.EntityFrameworkCore" />
+    <None Remove="Aids\" />
+    <None Remove="ElKap\" />
+    <None Remove="Core\" />
+    <None Remove="Domain\" />
+    <None Remove="Infra\" />
+    <None Remove="Pages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Data\Party\" />
+    <Folder Include="Facade\" />
+    <Folder Include="Facade\Party\" />
+    <Folder Include="Aids\" />
+    <Folder Include="ElKap\" />
+    <Folder Include="Core\" />
+    <Folder Include="Domain\" />
+    <Folder Include="Infra\" />
+    <Folder Include="Pages\" />
   </ItemGroup>
 </Project>

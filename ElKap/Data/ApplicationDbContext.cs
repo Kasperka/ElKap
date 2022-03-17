@@ -1,16 +1,27 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using ElKap.Data;
-using Data.Party;
+using ElKap.Infra.Party;
+using ElKap.Data.Party;
 
-namespace ElKap.Data;
+namespace ElKap.SolutionData;
 
 public class ApplicationDbContext : IdentityDbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
     {
+
     }
-    public DbSet<PersonData> Persons { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder b)
+    {
+        base.OnModelCreating(b);
+        InitializeTables(b);
+    }
+
+    private static void InitializeTables(ModelBuilder b)
+    {
+        ElKapDb.InitializeTables(b);
+    }
 }
 

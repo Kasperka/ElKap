@@ -1,7 +1,7 @@
 ﻿using System;
-using Data.Party;
-using Domain.Party;
-namespace Facade.Party
+using ElKap.Data.Party;
+using ElKap.Domain.Party;
+namespace ElKap.Facade.Party
 {
 	public class PersonViewFactory
 	{

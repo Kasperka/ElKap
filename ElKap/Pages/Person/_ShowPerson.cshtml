@@ -1,0 +1,8 @@
+﻿@page
+@model ElKap.Pages.Person.PersonsPage
+@using ElKap.Pages.Extensions
+
+@Html.MyViewerFor(m => m.Item.FirstName)
+@Html.MyViewerFor(m => m.Item.LastName)
+@Html.MyViewerFor(m => m.Item.Gender)
+@Html.MyViewerFor(m => m.Item.DoB)

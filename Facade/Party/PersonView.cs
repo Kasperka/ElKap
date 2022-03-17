@@ -1,8 +1,7 @@
-﻿using System;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Facade.Party
+namespace ElKap.Facade.Party
 {
 	public class PersonView
 	{

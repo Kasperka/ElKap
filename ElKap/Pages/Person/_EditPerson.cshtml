@@ -1,0 +1,8 @@
+@page
+@model ElKap.Pages.Person.PersonsPage
+@using ElKap.Pages.Extensions
+
+@Html.Editor(m => m.Item.FirstName)
+@Html.Editor(m => m.Item.LastName)
+@Html.Editor(m => m.Item.Gender)
+@Html.Editor(m => m.Item.DoB)
